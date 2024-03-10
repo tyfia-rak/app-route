@@ -1,0 +1,18 @@
+.header_home{
+    width: 100vw;
+    height: 100px;
+    background-color:brown;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+}
+.footer_home{
+    position: absolute;
+    bottom:0;
+    width: 100vw;
+    height: 100px;
+    background-color:green;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+}
